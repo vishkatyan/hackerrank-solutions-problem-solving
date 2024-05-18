@@ -1,1 +1,1 @@
-# Hackerrank Solutions
+# Hackerrank Solutions Easy Level
