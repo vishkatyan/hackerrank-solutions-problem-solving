@@ -4,16 +4,17 @@
 # About HackerRank
 HackerRank is a programming practice platform that provides competitive challenges and tests for learning skills and preparing for technology careers. Many major employers, like Google and Meta, use HackerRank or similar platforms to assess the coding skills of potential candidates.
 
-In this Repo you can find solutions for Easy hackerRank problems in Java
-
-Solve Me First
-Compare the Triplets
-A Very Big Sum
-Diagonal Difference
-Plus Minus
-Staircase
-Mimi-Max
-Birthday Cake Candles
-Time Conversion
-Angry Professor
-Bill Division
+# In this Repository, you can find solutions for Easy hackerRank problems in Java. Feel Free to Fork and Upload your own Solutions as Well.
+<p>
+Solve Me First </br>
+Compare the Triplets  </br>
+A Very Big Sum  </br>
+Diagonal Difference  </br>
+Plus Minus  </br>
+Staircase  </br>
+Mimi-Max  </br>
+Birthday Cake Candles  </br>
+Time Conversion  </br>
+Angry Professor  </br>
+Bill Division  </br>
+</p>
