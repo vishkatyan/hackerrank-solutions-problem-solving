@@ -6,7 +6,7 @@ HackerRank is a programming practice platform that provides competitive challeng
 
 <h4>In this Repository, you can find solutions for Easy hackerRank problems in Java. Feel Free to Fork and Upload your Solutions as Well. </h4>
 <h5>Note: Focus on the function of each problem.</h5>
-<p>
+<p> </br>
 Solve Me First </br>
 Compare the Triplets  </br>
 A Very Big Sum  </br>
@@ -16,6 +16,7 @@ Staircase  </br>
 Mimi-Max  </br>
 Birthday Cake Candles  </br>
 Time Conversion  </br>
+Grading Students </br>
 Angry Professor  </br>
 Bill Division  </br>
 </p>
