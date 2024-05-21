@@ -5,6 +5,7 @@
 HackerRank is a programming practice platform that provides competitive challenges and tests for learning skills and preparing for technology careers. Many major employers, like Google and Meta, use HackerRank or similar platforms to assess the coding skills of potential candidates.
 
 <h4>In this Repository, you can find solutions for Easy hackerRank problems in Java. Feel Free to Fork and Upload your Solutions as Well. </h4>
+<h5>Note: Focus on the function of each problem.</h5>
 <p>
 Solve Me First </br>
 Compare the Triplets  </br>
