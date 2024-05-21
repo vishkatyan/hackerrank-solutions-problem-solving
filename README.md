@@ -1,5 +1,7 @@
 # Hackerrank Solutions Easy Level
-![image](https://github.com/vishkatyan/hackerrank-solutions-problem-solving/assets/82721870/7b38f2a4-e563-4e73-8fe2-b3894b65531d)
+<div align="center">
+  <img src="https://github.com/vishkatyan/hackerrank-solutions-problem-solving/assets/82721870/7b38f2a4-e563-4e73-8fe2-b3894b65531d" width="250" height="250"/>
+</div>
 
 # About HackerRank
 HackerRank is a programming practice platform that provides competitive challenges and tests for learning skills and preparing for technology careers. Many major employers, like Google and Meta, use HackerRank or similar platforms to assess the coding skills of potential candidates.
