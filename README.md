@@ -20,6 +20,7 @@ Birthday Cake Candles  </br>
 Time Conversion  </br>
 Grading Students </br>
 Apples & Oranges </br>
+Number Line Jumps (Kangaroo Problem) </br>
 Angry Professor  </br>
 Bill Division  </br>
 Divisible Sum Pairs
