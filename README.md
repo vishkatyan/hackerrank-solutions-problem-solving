@@ -9,33 +9,44 @@ HackerRank is a programming practice platform that provides competitive challeng
 <h4>In this Repository, you can find solutions for Easy hackerRank problems in Java. Feel Free to Fork and Upload your Solutions as Well. </h4>
 <h5>Note: Focus on the function of each problem.</h5>
 <p> </br>
-Solve Me First </br>
-Compare the Triplets  </br>
-A Very Big Sum  </br>
-Diagonal Difference  </br>
-Plus Minus  </br>
-Staircase  </br>
-Mimi-Max  </br>
-Birthday Cake Candles  </br>
-Time Conversion  </br>
-Grading Students </br>
-Apples & Oranges </br>
-Number Line Jumps (Kangaroo Problem) </br>
-Breaking The Records </br>
-Subarray Division </br>
-Divisible Sum Pairs </br>
-Migratory Birds  </br>
-Bill Division  </br>
-Sales By Match </br>
-Drawing Book </br>
-Between Two Sets </br>
-Cats And A Mouse </br>
-Day of the Programmer </br>
-Counting Valleys </br>
-Hurdle Race </br>
-Designer pdf Viewer </br>
-Electronics Shop </br>
-Utopian Tree </br>
-Angry Professor  </br>
-Beautiful Days  </br>
+1. Solve Me First </br>
+2. Compare the Triplets  </br>
+3. A Very Big Sum  </br>
+4. Diagonal Difference  </br>
+5. Plus Minus  </br>
+6. Staircase  </br>
+7. Mimi-Max  </br>
+8. Birthday Cake Candles  </br>
+9. Time Conversion  </br>
+10. Grading Students </br>
+11. Apples & Oranges </br>
+12. Number Line Jumps (Kangaroo Problem) </br>
+13. Breaking The Records </br>
+14. Subarray Division </br>
+15. Divisible Sum Pairs </br>
+16. Migratory Birds  </br>
+17. Bill Division  </br>
+18. Sales By Match </br>
+19. Drawing Book </br>
+20. Between Two Sets </br>
+21. Cats And A Mouse </br>
+22. Day of the Programmer </br>
+23. Counting Valleys </br>
+24. Hurdle Race </br>
+25. Designer pdf Viewer </br>
+26. Electronics Shop </br>
+27. Utopian Tree </br>
+28. Angry Professor  </br>
+29. Beautiful Days  </br>
+30. Strange Advertising </br>
+31. Cut The Sticks </br>
+32. Sequence Equation </br>
+33. Find Digits </br>
+34. Circular Array Rotation </br>
+35. Missing Number </br>
+36. Find The Median </br>
+37. Closest Numbers </br>
+38. Sherlock and Arrays </br>
+39. Jim and The Orders </br>
+40. Mark and Toys </br>
 </p>
