@@ -8,6 +8,7 @@ HackerRank is a programming practice platform that provides competitive challeng
 
 <h4>In this Repository, you can find solutions for Easy hackerRank problems in Java. Feel Free to Fork and Upload your Solutions as Well. </h4>
 <h5>Note: Focus on the function of each problem.</h5>
+<a href="https://www.hackerrank.com/domains/algorithms"> Link to the Problems </a>
 <p> </br>
 1. Solve Me First </br>
 2. Compare the Triplets  </br>
